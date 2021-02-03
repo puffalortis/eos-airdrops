@@ -79,6 +79,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | DF            | issue.newdex  |
+| DOWN          | downcoin      |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
 | ECOIN         | ecoin1nation  |
